@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Waktu pembuatan: 25 Des 2025 pada 09.44
+-- Waktu pembuatan: 26 Des 2025 pada 16.46
 -- Versi server: 8.4.3
 -- Versi PHP: 8.3.16
 
@@ -75,7 +75,7 @@ ALTER TABLE `employees`
 -- AUTO_INCREMENT untuk tabel `employees`
 --
 ALTER TABLE `employees`
-  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
